@@ -1,0 +1,17 @@
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Project11.exe
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Project11.deps.json
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Project11.runtimeconfig.json
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Project11.dll
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Project11.pdb
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.AssemblyInfoInputs.cache
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.AssemblyInfo.cs
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.dll
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\refint\Project11.dll
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.pdb
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.genruntimeconfig.cache
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\ref\Project11.dll
+C:\Users\Acer\source\Project11\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.csproj.AssemblyReference.cache
+C:\Users\Acer\source\Project11\obj\Debug\net7.0\Project11.csproj.CopyComplete
